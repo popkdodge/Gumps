@@ -1,0 +1,151 @@
+DMAINDEX,Count of # orders,total $,count of customers,CNTYTVHH_count,STATE,COUNTY,STATEFP,CNTYFP,CNTYTVHH_DMAP,DMA,GOOGLE_DMA,STCOUNTYFP
+1.0,691,453926.66,582,57068370.0,CT ,Fairfield                   ,9,1,326870,NEW YORK (NY)                                                        ,New York NY,91
+3.0,192,113119.26,160,5583950.0,IL ,Cook                        ,17,31,1945360,CHICAGO (IL)                                                         ,Chicago IL,1731
+4.0,150,95049.81999999999,120,17169600.0,DE ,Kent                        ,10,1,47820,PHILADELPHIA (PA)                                                    ,Philadelphia PA,101
+7.0,1438,1052621.68,1134,85193760.0,TX ,Anderson                    ,48,1,15960,DALLAS (TX) - FT. WORTH (TX)                                         ,Dallas-Ft. Worth TX,481
+8.0,546,341409.88,436,3240170.0,DC ,District Of Columbia        ,11,1,242960,WASHINGTON (DC) - HAGERSTOWN (MD)                                    ,Washington DC (Hagerstown MD),111
+8.0,546,341409.88,436,3240170.0,VA ,Alexandria City             ,51,510,0,"WASHINGTON, DC(HAGRSTWN)                                             ",,51510
+9.0,975,631644.28,789,19079320.0,AL ,Cleburne                    ,1,29,5610,ATLANTA (GA)                                                         ,Atlanta GA,129
+10.0,542,333824.38,441,53510260.0,MI ,Lapeer                      ,26,87,31810,DETROIT (MI)                                                         ,Detroit MI,2687
+11.0,1084,792977.74,861,106151260.0,TX ,Austin                      ,48,15,9000,HOUSTON (TX)                                                         ,Houston TX,4815
+13.0,575,433577.58,443,26749900.0,FL ,Citrus                      ,12,17,54540,TAMPA (FL) - ST. PETERSBURG (FL) - SARASOTA (FL)                     ,Tampa-St. Petersburg (Sarasota) FL,1217
+14.0,211,144434.98,158,5548570.0,MN ,Aitkin                      ,27,1,6830,MINNEAPOLIS (MN) - ST. PAUL (MN)                                     ,Minneapolis-St. Paul MN,271
+15.0,239,176700.62,194,9267960.0,OH ,Ashland                     ,39,5,19760,CLEVELAND (OH) - AKRON (OH) - CANTON (OH)                            ,Cleveland-Akron (Canton) OH,395
+18.0,2,582.0,2,3580.0,CO ,Adams                       ,8,1,134910,DENVER (CO)                                                          ,Denver CO,81
+20.0,169,136082.04,128,5300000.0,FL ,Brevard                     ,12,9,206480,ORLANDO (FL) - DAYTONA BEACH (FL) - MELBOURNE (FL)                   ,Orlando-Daytona Beach-Melbourne FL,129
+21.0,102,56838.18,79,3684830.0,MD ,Garrett                     ,24,23,11200,PITTSBURGH (PA)                                                      ,Pittsburgh PA,2423
+22.0,487,323979.82,394,17676970.0,IL ,Bond                        ,17,5,6230,ST. LOUIS (MO)                                                       ,St. Louis MO,175
+24.0,127,74434.04,104,5007400.0,MD ,Anne Arundel                ,24,3,186110,BALTIMORE (MD)                                                       ,Baltimore MD,243
+25.0,57,39131.759999999995,47,426500.0,IN ,Bartholomew                 ,18,5,28030,INDIANAPOLIS (IN)                                                    ,Indianapolis IN,185
+28.0,353,279068.82,287,8813570.0,NC ,Alexander                   ,37,3,13620,CHARLOTTE (NC)                                                       ,Charlotte NC,373
+29.0,493,286841.22,404,9660600.0,NC ,Chatham                     ,37,37,20550,RALEIGH (NC) - DURHAM (NC) - FAYETTEVILLE (NC)                       ,Raleigh-Durham (Fayetteville) NC,3737
+30.0,376,244438.62,303,2232980.0,KY ,Allen                       ,21,3,6960,NASHVILLE (TN)                                                       ,Nashville TN,213
+31.0,181,87732.95999999999,152,3995640.0,WI ,Dodge                       ,55,27,32270,MILWAUKEE (WI)                                                       ,Milwaukee WI,5527
+32.0,75,49469.4,62,1058890.0,IN ,Dearborn                    ,18,29,17320,CINCINNATI (OH)                                                      ,Cincinnati OH,1829
+33.0,39,26693.1,34,427960.0,KS ,Anderson                    ,20,3,3150,KANSAS CITY (MO)                                                     ,Kansas City MO,203
+34.0,48,41272.08,38,216170.0,OH ,Coshocton                   ,39,31,14000,COLUMBUS (OH)                                                        ,Columbus OH,3931
+35.0,96,42866.54,89,465880.0,GA ,Elbert                      ,13,105,8190,GREENVILLE (SC) - SPARTANBURG (SC) - ASHEVILLE (NC) - ANDERSON (SC)  ,Greenville-Spartanburg SC-Asheville NC-Anderson SC,13105
+37.0,142,98430.6,120,570040.0,TX ,Atascosa                    ,48,13,13500,SAN ANTONIO (TX)                                                     ,San Antonio TX,4813
+38.0,76,50621.36,60,1547660.0,MI ,Allegan                     ,26,5,38880,GRAND RAPIDS (MI) - KALAMAZOO (MI) - BATTLE CREEK (MI)               ,Grand Rapids-Kalamazoo-Battle Creek MI,265
+39.0,37,17216.72,34,812500.0,FL ,Indian River                ,12,61,53150,WEST PALM BEACH (FL) - FT. PIERCE (FL)                               ,West Palm Beach-Ft. Pierce FL,1261
+41.0,490,226872.22,301,3504630.0,NC ,Camden                      ,37,29,2770,NORFOLK (VA) - PORTSMOUTH (VA) - NEWPORT NEWS (VA)                   ,Norfolk-Portsmouth-Newport News VA,3729
+41.0,490,226872.22,301,3504630.0,VA ,Franklin City               ,51,620,0,NORFOLK-PORTSMTH-NEWPT NWS                                           ,,51620
+42.0,63,38769.36,53,1047070.0,LA ,Jefferson Parish            ,22,51,174590,NEW ORLEANS (LA)                                                     ,New Orleans LA,2251
+43.0,155,73105.42,130,8179890.0,AR ,Crittenden                  ,5,35,18330,MEMPHIS (TN)                                                         ,Memphis TN,535
+44.0,1,263.52,1,14910.0,NY ,Allegany                    ,36,3,17470,BUFFALO (NY)                                                         ,Buffalo NY,363
+45.0,172,105912.92,135,6836080.0,OK ,Alfalfa                     ,40,3,2070,OKLAHOMA CITY (OK)                                                   ,Oklahoma City OK,403
+46.0,59,28407.28,51,879830.0,NC ,Alamance                    ,37,1,52940,GREENSBORO (NC) - HIGH POINT (NC) - WINSTON SALEM (NC)               ,Greensboro-High Point-Winston Salem NC,371
+47.0,44,19406.059999999998,36,2263650.0,PA ,Adams                       ,42,1,33910,HARRISBURG (PA) - LANCASTER (PA) - LEBANON (PA) - YORK (PA)          ,Harrisburg-Lancaster-Lebanon-York PA,421
+50.0,225,222281.06,183,5443840.0,IN ,Clark                       ,18,19,39000,LOUISVILLE (KY)                                                      ,Louisville KY,1819
+51.0,181,117699.08,141,752760.0,FL ,Baker                       ,12,3,7480,JACKSONVILLE (FL)                                                    ,Jacksonville FL,123
+53.0,21,32094.38,16,310270.0,PA ,Bradford                    ,42,15,24500,WILKES BARRE (PA) - SCRANTON (PA)                                    ,Wilkes Barre-Scranton PA,4215
+54.0,668,420769.64,569,18474860.0,TX ,Bastrop                     ,48,21,21720,AUSTIN (TX)                                                          ,Austin TX,4821
+55.0,21,10264.9,14,316340.0,MA ,Berkshire                   ,25,3,55130,ALBANY (NY) - SCHENECTADY (NY) - TROY (NY)                           ,Albany-Schenectady-Troy NY,253
+58.0,94,60490.08,75,5218870.0,IN ,Wayne                       ,18,177,27600,DAYTON (OH)                                                          ,Dayton OH,18177
+59.0,275,166311.8,229,1338660.0,VA ,Amelia                      ,51,7,4320,RICHMOND (VA) - PETERSBURG (VA)                                      ,Richmond-Petersburg VA,517
+59.0,275,166311.8,229,1338660.0,VA ,Colonial Heights City       ,51,570,0,RICHMOND-PETERSBURG                                                  ,,51570
+60.0,173,148140.38,158,5111150.0,KS ,Chautauqua                  ,20,19,1750,TULSA (OK)                                                           ,Tulsa OK,2019
+61.0,17,7819.280000000001,12,153810.0,KY ,Boyd                        ,21,19,19580,CHARLESTON (WV) - HUNTINGTON (WV)                                    ,Charleston-Huntington WV,2119
+62.0,25,12403.48,20,225500.0,AL ,Baldwin                     ,1,3,58950,MOBILE (AL) - PENSACOLA (FL) - FT. WALTON (FL)                       ,Mobile AL-Pensacola (Ft. Walton Beach) FL,13
+63.0,102,40697.04,75,445580.0,KY ,Bell                        ,21,13,11640,KNOXVILLE (TN)                                                       ,Knoxville TN,2113
+64.0,46,17872.2,37,873740.0,MI ,Arenac                      ,26,11,6920,FLINT (MI) - SAGINAW (MI) - BAY CITY (MI)                            ,Flint-Saginaw-Bay City MI,2611
+65.0,71,44538.299999999996,63,292530.0,KY ,Anderson                    ,21,5,7650,LEXINGTON (KY)                                                       ,Lexington KY,215
+66.0,67,37433.96,54,2369040.0,KS ,Barber                      ,20,7,2180,WICHITA (KS) - HUTCHINSON (KS)                                       ,Wichita Falls TX & Lawton OK,207
+67.0,195,87147.14,158,824490.0,VA ,Alleghany                   ,51,5,9780,ROANOKE (VA) - LYNCHBURG (VA)                                        ,Roanoke-Lynchburg VA,515
+67.0,195,87147.14,158,824490.0,VA ,Bedford City                ,51,515,0,ROANOKE-LYNCHBURG                                                    ,,51515
+68.0,19,9432.3,18,317620.0,MI ,Lenawee                     ,26,91,36890,TOLEDO (OH)                                                          ,Toledo OH,2691
+69.0,32,13605.099999999999,23,450330.0,MI ,Menominee                   ,26,109,10630,GREEN BAY (WI) - APPLETON (WI)                                       ,Green Bay-Appleton WI,26109
+72.0,113,55228.64,85,2634400.0,IA ,Adair                       ,19,1,3390,DES MOINES (IA) - AMES (IA)                                          ,Des Moines-Ames IA,191
+73.0,28,10857.06,16,127640.0,AR ,Baxter                      ,5,5,17170,SPRINGFIELD (MO)                                                     ,Springfield-Holyoke MA,55
+75.0,46,32715.54,39,279290.0,IL ,Alexander                   ,17,3,3620,PADUCAH (KY) - CAPE GIRARDEAU (MO) - HARRISBURG (IL) - MT VERNON (KS),Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,173
+77.0,25,15425.86,18,193000.0,NY ,Livingston                  ,36,51,21940,ROCHESTER (NY)                                                       ,Rochester NY,3651
+78.0,41,13973.0,37,406930.0,IA ,Cass                        ,19,29,5990,OMAHA (NE)                                                           ,Omaha NE,1929
+80.0,15,9606.119999999999,12,102000.0,NY ,Cayuga                      ,36,11,30180,SYRACUSE (NY)                                                        ,Syracuse NY,3611
+81.0,34,38789.3,27,168050.0,AR ,Columbia                    ,5,27,9680,SHREVEPORT (LA)                                                      ,Shreveport LA,527
+82.0,60,27082.22,48,508830.0,IL ,Champaign                   ,17,19,69400,CHAMPAIGN (IL) - SPRINGFIELD (IL) - DECATUR (IL)                     ,Champaign & Springfield-Decatur IL,1719
+83.0,1,3825.26,1,12560.0,AL ,Colbert                     ,1,33,22230,HUNTSVILLE (AL) - DECATUR (AL) - FLORENCE (AL)                       ,Huntsville-Decatur (Florence) AL,133
+85.0,77,32467.66,67,442470.0,GA ,Catoosa                     ,13,47,21310,CHATTANOOGA (TN)                                                     ,Chattanooga TN,1347
+86.0,24,15572.06,18,435320.0,WI ,Columbia                    ,55,21,20940,MADISON (WI)                                                         ,Madison WI,5521
+87.0,39,23381.6,31,944330.0,IN ,Elkhart                     ,18,39,65900,SOUTH BEND (IN) - ELKHART (IN)                                       ,South Bend-Elkhart IN,1839
+88.0,34,14866.1,32,774830.0,IA ,Allamakee                   ,19,5,5670,CEDAR RAPIDS (IA) - WATERLOO (IA) - IOWA CITY (IA) - DUBUQUE (IA)    ,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,195
+89.0,27,20409.3,23,194010.0,MS ,Adams                       ,28,1,13220,JACKSON (MS)                                                         ,Jackson MS,281
+90.0,102,44991.04,95,892420.0,KY ,Leslie                      ,21,131,4590,KINGSPORT (TN) - JOHNSON CITY (TN) - BRISTOL (TN)                    ,,21131
+90.0,102,44991.04,95,892420.0,VA ,Bristol City                ,51,520,0,"TRI-CITIES, TN-VA                                                    ",Tri-Cities TN-VA,51520
+92.0,31,15276.8,29,526090.0,IA ,Clinton                     ,19,45,19760,DAVENPORT (IA) - ROCK ISLAND (IL) - MOLINE (IL)                      ,Davenport IA-Rock Island-Moline IL,1945
+93.0,34,31182.4,32,628930.0,TX ,Bell                        ,48,27,88380,WACO (TX) - TEMPLE (TX) - BRYAN (TX)                                 ,Waco-Temple-Bryan TX,4827
+95.0,16,4761.5599999999995,7,41140.0,LA ,Ascension Parish            ,22,5,28290,BATON ROUGE (LA)                                                     ,Baton Rouge LA,225
+96.0,14,7269.459999999999,12,155900.0,PA ,Bedford                     ,42,9,19850,JOHNSTOWN (PA) - ALTOONA (PA)                                        ,Johnstown-Altoona PA,429
+97.0,18,7450.0,13,838220.0,TX ,Cameron                     ,48,61,100520,HARLINGEN (TX) - WESLACO (TX) - BROWNSVILLE (TX) - MCALLEN (TX)      ,Harlingen-Weslaco-Brownsville-McAllen TX,4861
+98.0,11,6136.52,11,59540.0,GA ,Appling                     ,13,1,6600,SAVANNAH (GA)                                                        ,Savannah GA,131
+99.0,39,30007.940000000002,34,513860.0,IL ,Edwards                     ,17,47,2790,EVANSVILLE (IN)                                                      ,Evansville IN,1747
+100.0,10,3839.8,9,618310.0,OH ,Columbiana                  ,39,29,42720,YOUNGSTOWN (OH)                                                      ,Youngstown OH,3929
+101.0,44,16987.18,33,2368480.0,NM ,Dona Ana                    ,35,13,59130,EL PASO (TX)                                                         ,El Paso TX,3513
+102.0,34,15021.68,32,815820.0,KS ,Jewell                      ,20,89,1590,LINCOLN (NE) - HASTINGS (NE) - KEARNEY (NE)                          ,Lincoln & Hastings-Kearney NE,2089
+103.0,73,43828.479999999996,61,782250.0,NC ,Beaufort                    ,37,13,18510,GREENVILLE (NC) - NEW BERN (NC) - WASHINGTON (NC)                    ,Greenville-New Bern-Washington NC,3713
+104.0,20,13345.12,20,129560.0,IN ,Adams                       ,18,1,11770,FT. WAYNE (IN)                                                       ,Ft. Wayne IN,181
+107.0,34,13936.6,29,217650.0,FL ,Gadsden                     ,12,39,17480,TALLAHASSEE (FL) - THOMASVILLE (GA)                                  ,Tallahassee FL-Thomasville GA,1239
+108.0,1,120.66,1,14910.0,AR ,Benton                      ,5,7,60860,FT. SMITH (AR) - FAY (AR) - SPRINGDALE (AR) - ROGERS (AR)            ,Ft. Smith-Fayetteville-Springdale-Rogers AR,57
+109.0,104,98170.2,80,1119400.0,TX ,Angelina                    ,48,5,29130,TYLER (TX) - LONGVIEW (TX) - LUFKIN (TX) - NACOGDOCHES (TX)          ,Tyler-Longview(Lufkin & Nacogdoches) TX,485
+110.0,6,3629.44,6,115360.0,NC ,Robeson                     ,37,155,44200,FLORENCE (SC) - MYRTLE BEACH (SC)                                    ,Florence-Myrtle Beach SC,37155
+112.0,9,5990.9,7,17530.0,IA ,Lyon                        ,19,119,4150,SIOUX FALLS (SD) - MITCHELL (SD)                                     ,Sioux Falls(Mitchell) SD,19119
+113.0,24,11844.44,21,173810.0,MI ,Antrim                      ,26,9,9640,TRAVERSE CITY (MI) - CADILLAC (MI)                                   ,Traverse City-Cadillac MI,269
+114.0,20,12614.619999999999,15,84680.0,CA ,Alpine                      ,6,3,430,RENO (NV)                                                            ,Reno NV,63
+115.0,44,37317.28,32,472540.0,GA ,Burke                       ,13,33,7890,AUGUSTA (GA)                                                         ,Augusta GA,1333
+117.0,91,57649.0,65,1499490.0,IL ,Fulton                      ,17,57,14680,PEORIA (IL) - BLOOMINGTON (IL)                                       ,Peoria-Bloomington IL,1757
+118.0,3,1457.56,3,35010.0,MN ,Becker                      ,27,5,11910,FARGO (ND) - VALLEY CITY (ND)                                        ,Fargo-Valley City ND,275
+122.0,56,24050.46,53,317020.0,GA ,Baldwin                     ,13,9,15170,MACON (GA)                                                           ,Macon GA,139
+123.0,5,1912.26,5,58960.0,MN ,Houston                     ,27,55,7810,LA CROSSE (WI) - EAU CLAIRE (WI)                                     ,La Crosse-Eau Claire WI,2755
+125.0,3,763.06,3,39780.0,LA ,Acadia Parish               ,22,1,21150,LAFAYETTE (LA)                                                       ,Lafayette LA,221
+126.0,36,14190.94,30,471210.0,AL ,Barbour                     ,1,5,10570,COLUMBUS (GA)                                                        ,Columbus GA,15
+128.0,44,33329.68,33,1149110.0,TX ,Aransas                     ,48,7,9210,CORPUS CHRISTI (TX)                                                  ,Corpus Christi TX,487
+129.0,62,30073.920000000002,53,451820.0,NM ,Curry                       ,35,9,16200,AMARILLO (TX)                                                        ,Amarillo TX,359
+131.0,27,9697.0,24,89830.0,AL ,Lamar                       ,1,75,6360,COLUMBUS (MS) - TUPELO (MS) - WEST POINT (MS)                        ,Columbus-Tupelo-West Point MS,175
+133.0,10,10433.36,8,28470.0,AR ,Ashley                      ,5,3,9260,MONROE (LA) - EL DORADO (AR)                                         ,Monroe LA-El Dorado AR,53
+134.0,13,4315.32,9,96090.0,WI ,Adams                       ,55,1,8210,WAUSAU (WI) - RHINELANDER (WI)                                       ,Wausau-Rhinelander WI,551
+135.0,27,15564.74,24,829470.0,IL ,Boone                       ,17,7,15210,ROCKFORD (IL)                                                        ,Rockford IL,177
+136.0,26,19490.7,21,836350.0,MI ,Gogebic                     ,26,53,7190,DULUTH (MN) - SUPERIOR (WI)                                          ,Duluth MN-Superior WI,2653
+137.0,20,16692.56,19,614910.0,TX ,Hardin                      ,48,199,18300,BEAUMONT (TX) - PORT ARTHUR (TX)                                     ,Beaumont-Port Arthur TX,48199
+138.0,43,24686.0,27,622850.0,KS ,Brown                       ,20,13,4040,TOPEKA (KS)                                                          ,Topeka KS,2013
+139.0,20,8528.619999999999,8,36110.0,MO ,Audrain                     ,29,7,9930,COLUMBIA (MO) - JEFFERSON CITY (MO)                                  ,Columbia-Jefferson City MO,297
+140.0,14,4143.2,11,177460.0,IA ,Buena Vista                 ,19,21,7330,SIOUX CITY (IA)                                                      ,Sioux City IA,1921
+142.0,27,17888.48,23,281820.0,OK ,Comanche                    ,40,31,39350,WICHITA FALLS (TX) - LAWTON (OK)                                     ,Wichita-Hutchinson KS,4031
+143.0,7,1842.28,3,34480.0,PA ,Crawford                    ,42,39,34320,ERIE (PA)                                                            ,Erie PA,4239
+144.0,122,77307.2,83,670340.0,NC ,Bladen                      ,37,17,13160,WILMINGTON (NC)                                                      ,Wilmington NC,3717
+145.0,11,4556.38,10,74500.0,KS ,Allen                       ,20,1,5590,JOPLIN (MO) - PITTSBURG (KS)                                         ,Joplin MO-Pittsburg KS,201
+146.0,19,10957.86,14,142760.0,IL ,Clark                       ,17,23,7060,TERRE HAUTE (IN)                                                     ,Terre Haute IN,1723
+147.0,43,50814.9,35,1057680.0,TX ,Bailey                      ,48,17,2250,LUBBOCK (TX)                                                         ,Lubbock TX,4817
+148.0,19,6348.74,18,56440.0,GA ,Atkinson                    ,13,3,2810,ALBANY (GA)                                                          ,Albany GA,133
+149.0,1,413.08,1,18090.0,VA ,Tazewell                    ,51,185,18090,BLUEFIELD (WV) - BECKLEY (WV) - OAK HILL (WV)                        ,Bluefield-Beckley-Oak Hill WV,51185
+150.0,1,4160.0,1,6880.0,OH ,Belmont                     ,39,13,27610,WHEELING (WV) - STEUBENVILLE (OH)                                    ,Wheeling WV-Steubenville OH,3913
+152.0,27,23578.0,19,297360.0,IA ,Cerro Gordo                 ,19,33,19070,ROCHESTER (MN) - MASON CITY (IA) - AUSTIN (MN)                       ,Rochester MN-Mason City IA-Austin MN,1933
+154.0,8,2188.84,6,58200.0,NY ,Broome                      ,36,7,78500,BINGHAMTON (NY)                                                      ,Binghamton NY,367
+155.0,1,342.0,1,2060.0,MT ,Daniels                     ,30,19,890,MINOT (ND) - BISMARCK (ND) - DICKINSON (ND)                          ,Minot-Bismarck-Dickinson(Williston) ND,3019
+157.0,2,1260.0,2,4740.0,MS ,George                      ,28,39,6770,BILOXI (MS) - GULFPORT (MS)                                          ,Biloxi-Gulfport MS,2839
+158.0,121,130167.56,90,532800.0,TX ,Andrews                     ,48,3,4480,ODESSA (TX) - MIDLAND (TX)                                           ,Odessa-Midland TX,483
+159.0,32,20321.66,29,135240.0,FL ,Bay                         ,12,5,61800,PANAMA CITY (FL)                                                     ,Panama City FL,125
+160.0,15,4003.64,11,190420.0,OK ,Atoka                       ,40,5,5000,SHERMAN (TX) - ADA (OK)                                              ,Sherman TX-Ada OK,405
+163.0,34,47171.9,26,321680.0,TX ,Brown                       ,48,49,14340,ABILENE (TX) - SWEETWATER (TX)                                       ,Abilene-Sweetwater TX,4849
+164.0,16,7199.4400000000005,14,60710.0,IA ,Lee                         ,19,111,14830,QUINCY (IL) - HANNIBAL (MO) - KEOKUK (IA)                            ,Quincy IL-Hannibal MO-Keokuk IA,19111
+168.0,2,1260.0,2,4500.0,MS ,Covington                   ,28,31,7190,HATTIESBURG (MS) - LAUREL (MS)                                       ,Hattiesburg-Laurel MS,2831
+170.0,16,5126.0,12,207550.0,MT ,Big Horn                    ,30,3,3810,BILLINGS (MT)                                                        ,"Billings, MT",303
+173.0,5,946.78,5,115260.0,NY ,Chemung                     ,36,15,34280,ELMIRA (NY)                                                          ,Elmira NY,3615
+175.0,13,5901.76,10,106960.0,MT ,Carter                      ,30,11,490,RAPID CITY (SD)                                                      ,Rapid City SD,3011
+177.0,3,1250.8,2,25300.0,MI ,Alger                       ,26,3,3820,MARQUETTE (MI)                                                       ,Marquette MI,263
+178.0,38,81150.32,25,196650.0,VA ,Harrisonburg City           ,51,660,0,HARRISONBURG                                                         ,,51660
+178.0,38,81150.32,25,196650.0,VA ,Augusta                     ,51,15,43860,HARRISONBURG (VA)                                                    ,Harrisonburg VA,5115
+179.0,1,687.96,1,17200.0,LA ,Avoyelles Parish            ,22,9,14860,ALEXANDRIA (LA)                                                      ,Alexandria LA,229
+180.0,8,11312.099999999999,7,116280.0,KY ,Adair                       ,21,1,6650,BOWLING GREEN (KY)                                                   ,Bowling Green KY,211
+182.0,7,11299.0,6,45300.0,AR ,Chicot                      ,5,17,4920,GREENWOOD (MS) - GREENVILLE (MS)                                     ,Greenwood-Greenville MS,517
+183.0,15,9252.64,11,108480.0,TN ,Carroll                     ,47,17,11690,JACKSON (TN)                                                         ,Jackson TN,4717
+186.0,80,54949.04,67,22850.0,VA ,Charlottesville City        ,51,540,0,CHARLOTTESVILLE                                                      ,,51540
+186.0,80,54949.04,67,22850.0,VA ,Albemarle                   ,51,3,49150,CHARLOTTESVILLE (VA)                                                 ,Charlottesville VA,513
+187.0,3,1146.0,2,4970.0,MT ,Blaine                      ,30,5,2390,GREAT FALLS (MT)                                                     ,Great Falls MT,305
+188.0,6,2467.62,5,168470.0,OH ,Washington                  ,39,167,24790,PARKERSBURG (WV)                                                     ,Parkersburg WV,39167
+189.0,16,9820.84,11,167130.0,IN ,Benton                      ,18,7,3450,LAFAYETTE (IN)                                                       ,Lafayette IN,187
+192.0,7,5311.56,6,166020.0,TX ,Webb                        ,48,479,54040,LAREDO (TX)                                                          ,Laredo TX,48479
+193.0,3,1830.32,2,16280.0,KS ,Doniphan                    ,20,43,3190,ST. JOSEPH (MO)                                                      ,St. Joseph MO,2043
+196.0,34,14450.24,32,165260.0,TX ,Coke                        ,48,81,1580,SAN ANGELO (TX)                                                      ,San Angelo TX,4881
+198.0,8,3684.14,7,54270.0,IA ,Davis                       ,19,51,3140,OTTUMWA (IA) - KIRKSVILLE (MO)                                       ,Ottumwa IA-Kirksville MO,1951
+202.0,7,4063.2000000000003,5,32280.0,OH ,Muskingum                   ,39,119,32280,ZANESVILLE (OH)                                                      ,Zanesville OH,39119
+204.0,9,4408.28,9,60800.0,TX ,Victoria                    ,48,469,30400,VICTORIA (TX)                                                        ,Victoria TX,48469
+209.0,5,994.0,5,28600.0,NE ,Arthur                      ,31,5,200,NORTH PLATTE (NE)                                                    ,North Platte NE,315
